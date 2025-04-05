@@ -36,10 +36,6 @@ class Solution:
                 val = 1
             else:
                 val = helper(node.left, depth+1) + helper(node.right, depth+1)
-
-            print("node ", node)
-            print("depth ", depth)
-            print("val ", val)
             if val == c:
                 ans = max ((depth, node), ans)
             
