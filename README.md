@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Greedy
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Heap (Priority Queue)
 |  |
@@ -50,4 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
