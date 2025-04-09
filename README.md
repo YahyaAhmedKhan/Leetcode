@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0001-two-sum) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0001-two-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Tree
