@@ -60,8 +60,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [2998-count-symmetric-integers](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
