@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0007-reverse-integer) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2998-count-symmetric-integers](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
