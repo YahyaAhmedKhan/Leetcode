@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0001-two-sum) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -84,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
