@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0001-two-sum) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -86,12 +89,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -105,4 +110,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
