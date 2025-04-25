@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Tree
 |  |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
