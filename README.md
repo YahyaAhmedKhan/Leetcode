@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0922-possible-bipartition) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0922-possible-bipartition) |
 ## Graph
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0922-possible-bipartition) |
 ## Matrix
 |  |
 | ------- |
