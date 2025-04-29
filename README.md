@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0922-possible-bipartition) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1300-critical-connections-in-a-network](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0922-possible-bipartition) |
+| [1300-critical-connections-in-a-network](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Matrix
 |  |
 | ------- |
@@ -156,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
