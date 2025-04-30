@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
 |  |
 | ------- |
