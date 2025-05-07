@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,10 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-possible-bipartition](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1300-critical-connections-in-a-network](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sliding Window
 |  |
 | ------- |
