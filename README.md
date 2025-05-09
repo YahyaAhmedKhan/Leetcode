@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
