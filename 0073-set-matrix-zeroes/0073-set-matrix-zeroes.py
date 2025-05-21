@@ -3,22 +3,41 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        n, m = len(matrix[0]), len(matrix)
-        st = set()
-        def setZero(row, col):
-            for i in range(n):
-                # matrix[row][i]
-                st.add((row, i))
+        m, n = len(matrix), len(matrix[0])
 
-            for j in range(m):
-                # matrix[j][col] = 0
-                st.add((j, col))
-
+        row, col = False, False
+        for i in range(n):
+            if matrix[0][i] == 0:
+                row=True
+                break
         for i in range(m):
-            for j in range(n):
+            if matrix[i][0] == 0:
+                col=True
+                break
+
+        for i in range(1, m):
+            for j in range(1, n):
                 if matrix[i][j] == 0:
-                    setZero(i, j)
-        for i, j in list(st):
-            matrix[i][j] = 0
-        # return matrix
+                    matrix[0][j] = 0
+                    matrix[i][0] = 0
+        
+        for i in range(1, m):
+            if matrix[i][0] == 0:
+                for j in range(n):
+                    matrix[i][j] = 0
+
+        for j in range(n):
+            if matrix[0][j] == 0:
+                for i in range(m):
+                    matrix[i][j] = 0
+
+        if row:
+            for j in range(n):
+                matrix[0][j] = 0
+        if col:
+            for i in range(m):
+                matrix[i][0] = 0
+
+
+                    
         
