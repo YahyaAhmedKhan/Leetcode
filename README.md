@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
