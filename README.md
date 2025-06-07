@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Tree
 |  |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-satisfiability-of-equality-equations](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Shortest Path
 |  |
 | ------- |
@@ -225,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0868-push-dominoes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0868-push-dominoes) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
