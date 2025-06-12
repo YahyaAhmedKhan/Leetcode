@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
+| [0151-reverse-words-in-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0868-push-dominoes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0868-push-dominoes) |
 ## Stack
