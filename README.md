@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2048-build-array-from-permutation](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Heap (Priority Queue)
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0868-push-dominoes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
 | ------- |
