@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1032-satisfiability-of-equality-equations](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3643-zero-array-transformation-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3643-zero-array-transformation-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
