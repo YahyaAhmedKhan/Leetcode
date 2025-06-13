@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3643-zero-array-transformation-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
