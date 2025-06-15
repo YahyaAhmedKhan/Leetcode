@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0868-push-dominoes) |
@@ -273,5 +274,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0394-decode-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
