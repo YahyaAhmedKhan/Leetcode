@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
