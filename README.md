@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0162-find-peak-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0162-find-peak-element) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
