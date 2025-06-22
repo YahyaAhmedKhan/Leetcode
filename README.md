@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-satisfiability-of-equality-equations](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -268,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3643-zero-array-transformation-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
@@ -280,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Biconnected Component
 |  |
 | ------- |
