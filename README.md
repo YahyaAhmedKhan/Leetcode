@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0868-push-dominoes) |
+| [1236-n-th-tribonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Enumeration
 |  |
@@ -332,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
