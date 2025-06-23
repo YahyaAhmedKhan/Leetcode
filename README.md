@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0739-daily-temperatures) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
 |  |
@@ -355,4 +357,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
