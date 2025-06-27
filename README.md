@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0011-container-with-most-water) |
+| [0064-minimum-path-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0162-find-peak-element) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
