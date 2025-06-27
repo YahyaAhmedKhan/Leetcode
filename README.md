@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0392-is-subsequence) |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
