@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
