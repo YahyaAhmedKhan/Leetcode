@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0740-delete-and-earn](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0740-delete-and-earn) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -315,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Biconnected Component
@@ -387,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
