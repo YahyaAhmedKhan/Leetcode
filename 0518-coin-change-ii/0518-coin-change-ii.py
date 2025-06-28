@@ -5,11 +5,11 @@ class Solution:
 
         dp = [[0]*(n+1) for i in range(m)]
 
+        for i in range(m):
+            dp[i][0] = 1
         for i in range(n+1):
             dp[0][i] = 0 if i%coins[0] else 1
 
-        for i in range(m):
-            dp[i][0] = 1
 
         for i in range(1, m):
             for j in range(1, n+1):
