@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0684-redundant-connection) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0337-house-robber-iii) |
