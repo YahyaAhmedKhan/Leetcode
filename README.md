@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0199-binary-tree-right-side-view](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0199-binary-tree-right-side-view](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0120-triangle) |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0077-combinations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Topological Sort
 |  |
@@ -324,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0162-find-peak-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0300-longest-increasing-subsequence) |
