@@ -1,18 +1,26 @@
 class Solution:
     def numTrees(self, n: int) -> int:
-
-        dp = [None]*(n+1)
-
-        def helper(k):
-
-            if k<=1:
-                return 1
-            if dp[k] is not None:
-                return dp[k]
-            ans = 0
-            for i in range(1, k+1):
-                ans += helper(i-1)*helper(k-i)
-            dp[k] = ans
-            return dp[k]
-        return helper(n)
         
+        dp=[0]*(n+1)
+        dp[0] = 1
+
+        # def helper(x):
+        #     if dp[x] is not None:
+        #         return dp[x]
+        #     ans = 0
+        #     for i in range(x):
+        #         ans += helper(i)*helper(x-1-i)
+
+        #     return ans
+
+        for i in range(1, n+1):
+            for root in range(1, i+1):
+                dp[i] += dp[root-1]*dp[i-root]
+
+        return dp[n]
+
+        
+
+
+
+
