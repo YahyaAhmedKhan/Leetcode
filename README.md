@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1397-search-suggestions-system) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3643-zero-array-transformation-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
@@ -413,4 +415,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0739-daily-temperatures](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0937-online-stock-span) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
