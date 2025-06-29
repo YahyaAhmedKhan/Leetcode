@@ -1,20 +1,28 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
-        dp = [1] * (len(s)+1)
-        n = len(s)
-        dp[n-1] = 0 if s[n-1]=="0" else 1
+        dp = [None] * len(s)
 
-        for i in range(n-2, -1, -1):
+        def helper(i):
+            if i==len(s):
+                return 1
+            
+            if dp[i] is not None:
+                return dp[i]
+
             if s[i] == "0":
                 dp[i] = 0
-            elif int(s[i:i+2]) < 27:
-
-                dp[i] = dp[i+1] + dp[i+2]
+            elif i<len(s)-1 and (int(s[i]+s[i+1])<27) :
+                dp[i] = helper(i+1) + helper(i+2)
             else:
-                dp[i] = dp[i+1]
+                dp[i] = helper(i+1)
+
+            return dp[i]
+        ans = helper(0)
+        print(dp)
+        return ans
 
 
-        return dp[0]
+            
 
 
         
