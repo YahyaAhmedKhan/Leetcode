@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2262-solving-questions-with-brainpower](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2636-maximum-subsequence-score](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2262-solving-questions-with-brainpower](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
 |  |
