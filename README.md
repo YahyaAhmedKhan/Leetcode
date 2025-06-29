@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
