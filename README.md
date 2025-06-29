@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -469,4 +471,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
