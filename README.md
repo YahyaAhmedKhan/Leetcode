@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0740-delete-and-earn](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0740-delete-and-earn) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -475,4 +479,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
