@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2262-solving-questions-with-brainpower](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2562-count-ways-to-build-good-strings](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Enumeration
 |  |
 | ------- |
