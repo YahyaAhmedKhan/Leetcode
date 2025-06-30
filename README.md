@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0739-daily-temperatures) |
