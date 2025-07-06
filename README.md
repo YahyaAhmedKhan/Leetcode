@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/YahyaAhmedKhan/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
